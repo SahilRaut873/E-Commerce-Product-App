@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Realme Smartwatch 3",
+      "brand": "realme",
+      "category": "Wearable Smart Device",
+      "price": 24999,
+      "rating": 4.5,
+      "image": "https://example.com/realme-smartwatch.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch Series 7",
+      "brand": "Apple",
+      "category": "Wearable Smart Device",
+      "price": 39999,
+      "rating": 4.8,
+      "image": "https://example.com/apple-watch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy Watch 4",
+      "brand": "Samsung",
+      "category": "Wearable Smart Device",
+      "price": 28999,
+      "rating": 4.6,
+      "image": "https://example.com/samsung-watch.jpg"
+    }
+  ]
+  
